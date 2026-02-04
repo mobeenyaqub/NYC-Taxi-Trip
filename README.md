@@ -44,13 +44,3 @@ Python-focused data engineer specializing in ETL pipelines, EDA, and data prepro
 - **Version Control**: Shared drive for tracking and managing up-to-date project work
 
 
-## Contributing
-
-| Section | Writing | Editing |
-|---------|---------|---------|
-| Project | Caleb | Mubeen |
-| Team | Caleb | Mubeen |
-| Plan | Caleb | Mubeen |
-
----
-
