@@ -1,7 +1,7 @@
 # GridRunners: NYC Yellow Taxi Predictive Suite
 
 **DSCI 592 Capstone Project**  
-Drexel University · May 2026
+Drexel University · June 2026
 
 GridRunners is an end-to-end machine learning project built on the 2023 NYC Yellow Taxi dataset. The project predicts fare, trip duration, tip likelihood, and demand through a shared feature pipeline and a unified application interface.
 
